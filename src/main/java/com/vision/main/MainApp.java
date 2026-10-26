@@ -1,8 +1,9 @@
-package com.vision.main;
+package src.main.java.com.vision.main;
 
-import com.vision.dao.UsuarioDAO;
-import com.vision.modelo.Usuario;
 import java.util.List;
+
+import src.main.java.com.vision.dao.UsuarioDAO;
+import src.main.java.com.vision.modelo.Usuario;
 
 public class MainApp {
     public static void main(String[] args) {

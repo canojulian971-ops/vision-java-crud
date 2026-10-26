@@ -1,4 +1,4 @@
-package com.vision.modelo;
+package src.main.java.com.vision.modelo;
 
 public class Usuario {
     private int idUsuario;

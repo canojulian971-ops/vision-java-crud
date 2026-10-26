@@ -1,4 +1,4 @@
-package com.vision.conexion;
+package src.main.java.com.vision.conexion;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

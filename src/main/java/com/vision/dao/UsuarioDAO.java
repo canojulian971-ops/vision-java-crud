@@ -1,11 +1,11 @@
-package com.vision.dao;
-
-import com.vision.conexion.ConexionBD;
-import com.vision.modelo.Usuario;
+package src.main.java.com.vision.dao;
 
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
+
+import src.main.java.com.vision.conexion.ConexionBD;
+import src.main.java.com.vision.modelo.Usuario;
 
 public class UsuarioDAO {
 
