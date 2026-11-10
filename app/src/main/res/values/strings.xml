@@ -1,0 +1,55 @@
+<resources>
+
+    <string name="app_name">Vision</string>
+    <string name="title">VISION</string>
+    <string name="subtitle">Movilidad accesible para todos</string>
+    <string name="login_title">INICIAR SESI&#211;N</string>
+    <string name="email_label">Correo electr&#243;nico</string>
+    <string name="email_hint">Ingresa tu correo</string>
+    <string name="password_label">Contrase&#241;a</string>
+    <string name="password_hint">Ingresa tu contrase&#241;a</string>
+    <string name="forgot_password"><u>&#191;Olvidaste tu contrase&#241;a?</u></string>
+    <string name="login_button">ENTRAR</string>
+    <string name="create_account_button">CREAR CUENTA</string>
+    <string name="divider_text">o</string>
+
+    <string name="register_title">CREAR CUENTA</string>
+    <string name="register_subtitle">Completa tus datos para registrarte</string>
+    <string name="name_label">Nombre completo</string>
+    <string name="name_hint">Ingresa tu nombre completo</string>
+    <string name="email_hint_register">Ingresa tu correo electr&#243;nico</string>
+    <string name="password_hint_register">Crea tu contrase&#241;a</string>
+    <string name="confirm_password_label">Confirmar contrase&#241;a</string>
+    <string name="confirm_password_hint">Confirma tu contrase&#241;a</string>
+    <string name="register_button">REGISTRARME</string>
+    <string name="already_have_account">&#191;YA TIENES CUENTA? INICIA SESI&#211;N</string>
+
+    <string name="greeting">&#161;Hola, Juli&#225;n!</string>
+    <string name="home_question">&#191;Qu&#233; deseas hacer hoy?</string>
+    <string name="menu_search_route">Buscar ruta</string>
+    <string name="menu_nearby_stops">Paradas cercanas</string>
+    <string name="menu_notifications">Notificaciones</string>
+    <string name="menu_profile">Mi perfil</string>
+    <string name="help_button">&#191;Necesitas ayuda?</string>
+    <string name="nav_home">Inicio</string>
+    <string name="nav_settings">Ajustes</string>
+
+    <string name="search_route_title">Buscar ruta</string>
+    <string name="search_route_desc">Encuentra la mejor ruta para tu destino</string>
+    <string name="origin_label">Origen</string>
+    <string name="current_location">Mi ubicaci&#243;n actual</string>
+    <string name="use_my_location">Usar mi ubicaci&#243;n</string>
+    <string name="destination_label">Destino</string>
+    <string name="destination_hint">Ingresa tu destino</string>
+    <string name="search_button">BUSCAR RUTA</string>
+    <string name="recommended_route">RUTA RECOMENDADA</string>
+    <string name="route_name_5">Ruta 5</string>
+    <string name="route_direction_terminal">Direcci&#243;n: Terminal</string>
+    <string name="estimated_time">Tiempo estimado</string>
+    <string name="time_12_mins">12 minutos</string>
+    <string name="boarding_stop">Parada para abordar</string>
+    <string name="hospital_stop">Parada Hospital</string>
+    <string name="distance_150m">A 150 metros de tu ubicaci&#243;n</string>
+    <string name="traffic_warning">Los tiempos pueden variar seg&#250;n el tr&#228;fico.</string>
+
+</resources>
